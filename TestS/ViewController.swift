@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  TestS
-//
-//  Created by DATEV Mobile on 15.02.16.
-//  Copyright © 2016 DATEV Mobile. All rights reserved.
-//
+
 
 import UIKit
 import AVFoundation
